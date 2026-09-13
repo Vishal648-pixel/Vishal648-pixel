@@ -52,31 +52,31 @@ Interests:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
 
 <br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 
 <br/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postman&theme=dark" />
 
 <br/>
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
 
 <br/>
 
-**Tools**
+**IDEs**
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,clion,pycharm&theme=dark" />
 
 </div>
 
