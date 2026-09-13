@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=600&color=FF2A2A&center=true&vCenter=true&width=700&lines=🚀+Building+Cloud-Native+Applications;⚛️+React.js+%7C+Spring+Boot+%7C+Python;☁️+AWS+%26+Oracle+Cloud+Certified;🐳+Docker+%7C+REST+APIs+%7C+Microservices;🎓+MCA+%40+SPIT+Mumbai;💼+Open+to+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=600&color=FF2A2A&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;React.js+%7C+Spring+Boot+%7C+Python;AWS+%26+Oracle+Cloud+Certified;Docker+%7C+REST+APIs+%7C+Microservices;MCA+%40+SPIT+Mumbai;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -52,7 +52,7 @@ Interests:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
 
 <br/>
 
