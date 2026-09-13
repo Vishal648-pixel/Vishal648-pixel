@@ -1,14 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=ff2a2a&height=300&section=header&text=Vishal%20Masule&fontSize=90&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Software%20Developer&descSize=22&descAlignY=72&descColor=ffcccc" width="100%"/>
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ff2a2a&height=280&section=header&text=Vishal%20Masule&fontSize=80&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Software%20Developer&descSize=22&descAlignY=72&descColor=ffcccc" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=600&color=FF2A2A&center=true&vCenter=true&width=700&lines=🚀+Building+Cloud-Native+Applications;⚛️+React.js+%7C+Spring+Boot+%7C+Python;☁️+AWS+%26+Oracle+Cloud+Certified;🐳+Docker+%7C+REST+APIs+%7C+Microservices;🎓+MCA+%40+SPIT+Mumbai;💼+Open+to+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2500&pause=600&color=FF2A2A&center=true&vCenter=true&width=700&lines=🚀+Building+Cloud-Native+Applications;⚛️+React.js+%7C+Spring+Boot+%7C+Python;☁️+AWS+%26+Oracle+Cloud+Certified;🐳+Docker+%7C+REST+APIs+%7C+Microservices;🎓+MCA+%40+SPIT+Mumbai;💼+Open+to+Opportunities!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -56,19 +50,32 @@ Interests:
 
 <div align="center">
 
-### Languages
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=java,js,python,mysql&theme=dark" />
 
-### Frontend
+<br/>
+
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
 
-### Backend
+<br/>
+
+**Backend**
+
 <img src="https://skillicons.dev/icons?i=spring,nodejs,postman&theme=dark" />
 
-### Cloud & DevOps
+<br/>
+
+**Cloud & DevOps**
+
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" />
 
-### Tools & IDEs
+<br/>
+
+**Tools**
+
 <img src="https://skillicons.dev/icons?i=vscode,idea,maven&theme=dark" />
 
 </div>
@@ -101,10 +108,9 @@ Interests:
 
 <details open>
 <summary><b>☁️ CloudVault — Cloud Storage Application</b></summary>
+<br>
 
-<br/>
-
-> **Stack:** `React.js` · `Python` · `AWS S3` · `CloudFront` · `Route 53` · `DynamoDB` · `SNS` · `Docker`
+**Stack:** React.js · Python · AWS S3 · CloudFront · Route 53 · DynamoDB · SNS · Docker
 
 - 📁 Secure cloud-based file upload, storage & management system
 - ⚡ **CloudFront CDN** for low-latency global content delivery
@@ -116,14 +122,11 @@ Interests:
 
 </details>
 
-<br/>
-
 <details>
 <summary><b>☕ Java Full Stack Web Application</b></summary>
+<br>
 
-<br/>
-
-> **Stack:** `React.js` · `Spring Boot` · `Hibernate` · `MySQL` · `JWT` · `JUnit5` · `Mockito`
+**Stack:** React.js · Spring Boot · Hibernate · MySQL · JWT · JUnit5 · Mockito
 
 - ⚛️ Modular **React.js** frontend with component-driven architecture
 - 🔗 Production-grade **Spring Boot** REST APIs with middleware & logging
@@ -139,25 +142,17 @@ Interests:
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal648-pixel&bg_color=0d1117&color=ff4444&line=ff2a2a&point=ffffff&area=true&hide_border=true&radius=8" width="96%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal648-pixel&bg_color=0d1117&color=ff4444&line=ff2a2a&point=ffffff&area=true&hide_border=true&radius=8" width="100%"/>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal648-pixel/Vishal648-pixel/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishal648-pixel/Vishal648-pixel/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vishal648-pixel/Vishal648-pixel/output/github-snake.svg" width="90%"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Vishal648-pixel/Vishal648-pixel/output/github-snake.svg" width="100%"/>
 </picture>
-
-</div>
 
 ---
 
@@ -169,35 +164,25 @@ Interests:
 |:---:|:---:|:---:|
 | EC2 · S3 · Lambda | Compute · Networking | Docker · Git |
 | CloudFront · Route 53 | Object Storage | GitHub Actions |
-| CloudWatch · Cognito | OCI Certified 🔶 | REST APIs · JWT |
-| SNS · DynamoDB | — | Agile · Testing |
+| CloudWatch · Cognito | **OCI Certified 🔶** | REST APIs · JWT |
+| SNS · DynamoDB | — | Agile · TDD |
 | **CLF-C02 Certified ☁️** | — | CI/CD Pipelines |
 
 </div>
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Experience
 
 <div align="center">
 
-| Degree | Institution | Status |
-|:---|:---|:---:|
-| **MCA** — Master of Computer Applications | SPIT, Andheri, Mumbai | 📖 Pursuing |
-| **B.Sc Computer Science** | KV Pendharkar College, Dombivli | ✅ Completed |
+| | Degree / Role | Institution | Status |
+|:---:|:---|:---|:---:|
+| 🎓 | **MCA** — Master of Computer Applications | SPIT, Andheri, Mumbai | 📖 Pursuing |
+| 🎓 | **B.Sc Computer Science** | KV Pendharkar College, Dombivli | ✅ Completed |
+| 💼 | **AWS Cloud Trainee** — Magic Bus | 3-Month Industrial Training | ✅ Completed |
 
 </div>
-
----
-
-## 💼 Experience
-
-**AWS Cloud Trainee** — [Magic Bus](https://www.magicbus.org/) · *3 Months*
-
-- ☁️ Gained hands-on AWS & cloud computing skills through practical labs
-- 🏗️ Designed cloud-based solutions for real-world engineering scenarios
-- 🔐 Applied infrastructure management, security & deployment strategies
-- 🤝 Collaborated in team-based, project-driven learning environment
 
 ---
 
@@ -221,8 +206,6 @@ Interests:
   <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2a2a&height=130&section=footer&text=Let's+Build+Something+Great!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
-
-</div>
