@@ -1,0 +1,4 @@
+{
+  "summary": "GitHub Actions workflow to auto-generate animated contribution snake SVG on a daily schedule and on manual trigger. Outputs both light and dark mode snake SVGs to the 'output' branch of the profile repo.",
+  "updatedAt": "2026-09-13T18:20:32.286765600Z"
+}
