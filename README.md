@@ -142,7 +142,11 @@ Interests:
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal648-pixel&bg_color=0d1117&color=ff4444&line=ff2a2a&point=ffffff&area=true&hide_border=true&radius=8" width="100%"/>
+<div align="center">
+
+<img src="https://ghchart.rshah.org/ff2a2a/Vishal648-pixel" alt="Vishal's Contribution Chart" width="100%"/>
+
+</div>
 
 ---
 
