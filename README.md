@@ -31,9 +31,9 @@ Location :  Mumbai, Maharashtra 🇮🇳
 Education:  MCA @ SPIT, Mumbai (Pursuing)
 
 Certified:
-  ☁️  AWS Cloud Practitioner (CLF-C02) — 2024
-  🔶 Oracle Cloud Infrastructure 2025
-  🤖 Google AI Essentials — Coursera 2024
+  ☁️  AWS Cloud Practitioner (CLF-C02) — 2026
+  🔶 Oracle Cloud Infrastructure 2026
+  🤖 Google AI Essentials — Coursera 2026
   🐍 Core Python — G-Tec Keerti Jain 2023
 
 Interests:
